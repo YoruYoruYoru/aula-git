@@ -6,6 +6,8 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("Projeto do curso.");
+		
 		Scanner sc = new Scanner(System.in);
 		int coluna = sc.nextInt();
 		int linha = sc.nextInt();
